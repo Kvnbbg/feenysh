@@ -152,7 +152,7 @@ public class App {
     }
 
     private static void displayAuthorInfo() {
-        System.out.println(CYAN + BOLD + "\nFeenysh - A Console Demo by Kevin Marville" + RESET);
+        System.out.println(CYAN + BOLD + "\nFeenysh - A Console App by Kevin Marville" + RESET);
         System.out.println(CYAN + "=========================================" + RESET);
         System.out.println(BLUE + """
             This is a console-based application that showcases my work 
