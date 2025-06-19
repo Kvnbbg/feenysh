@@ -20,7 +20,7 @@
         <configuration>
           <archive>
             <manifest>
-              <mainClass>App</mainClass>
+              <mainClass>feenysh.App</mainClass>
             </manifest>
           </archive>
         </configuration>
